@@ -20,7 +20,7 @@
     "cheerio": "^1.0.0-rc.6",
     "emoji-regex": "^9.2.2",
     "encoding-japanese": "^1.0.30",
-    "firebase-admin": "^9.6.0",
+    "firebase-admin": "^9.10.0",
     "firebase-functions": "^3.11.0",
     "fp-ts": "^2.10.4",
     "graphql": "^15.5.0",

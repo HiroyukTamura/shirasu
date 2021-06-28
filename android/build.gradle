@@ -1,5 +1,5 @@
 buildscript {
-    ext.kotlin_version = '1.4.32'
+    ext.kotlin_version = '1.5.20'
     repositories {
         google()
         // do not remove without update to AGP 4.2 Beta05 @see https://qiita.com/takke/items/67a7f21cdcec0f13d7c8
